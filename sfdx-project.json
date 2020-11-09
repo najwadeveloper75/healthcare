@@ -1,0 +1,21 @@
+{
+    "packageDirectories": [
+        {
+            "path": "source-folder",
+            "default": true,
+            "package": "demoPackageA",
+            "versionName": "ver 0.3",
+            "versionNumber": "0.3.1.NEXT",
+            "ancestorId": "04t4W000003CZMBQA4"
+        }
+    ],
+    "namespace": "sfdxNamespace",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "demoPackageA": "0Ho4W000000oM5HSAU",
+        "demoPackageA@0.1.0-2": "04t4W000003CZMBQA4",
+        "demoPackageA@0.2.0-1": "04t4W000003CZexQAG",
+        "demoPackageA@0.2.0-3": "04t4W000003CZf7QAG"
+    }
+}
